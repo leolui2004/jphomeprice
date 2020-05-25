@@ -1,6 +1,8 @@
 # Try to use Python Plotly and Dash to display land price information in Tokyo
 My first project on github. Using Plotly and Dash to create an interactive dashboard. As I just want to test the function so I did not do too much for the layout and the form of information presentation.
 
+Feel free to provide comments, I just started learning Python for 2 monnths and I am now concentrating on data anylysis and web presentation.
+
 ## Function
 * A first layer on the map showing land price over thousands of places in Tokyo
 ![image](https://github.com/leolui2004/jphomeprice/blob/master/picture/query1.png)
